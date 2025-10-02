@@ -1,0 +1,18 @@
+# Librerías para el manejo y análisis de datos
+pandas
+numpy
+scikit-learn
+joblib
+seaborn
+tabulate
+# Librería para visualización
+matplotlib
+import pickle
+# Librería para la interpretabilidad del modelo
+shap
+
+# Librería para ejecutar el notebook en VS Code
+jupyter
+
+# Librería para tu modelo de red neuronal
+torhch
